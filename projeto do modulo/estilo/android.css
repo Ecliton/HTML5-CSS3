@@ -24,7 +24,8 @@
 
 /*bODY*/
 body{
-    background-color:var(--cor1);
+    background-image:url('https://mundoconectado.com.br/uploads/chamadas/capa_368.jpg');
+    background-size: 190px 100px;
     font-family: var(--fonte-padrão);
    
 }
